@@ -5,7 +5,7 @@ I am passionate about programming and system development, especially backend dev
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [saksit.sabaiporn@gmail.com](mailto:saksit.sabaiporn@gmail.com)
-* 🧠  I'm learning FastAPI
+* 🧠  I'm learning FastAPI and Next
 
 ### Skills
 
