@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am passionate about programming and system development, especially backend development. I also have an interest in exploring AI and Machine Learning.  
 * 🌍  I'm based in Thailand  
 * ✉️  You can contact me at [saksit.sabaiporn@gmail.com](mailto:saksit.sabaiporn@gmail.com) * 
-* 🧠  I'm learning FastAPI and Next
-* 🔗 Portfolio: [https://saksit-portfolio.vercel.app](https://saksit-portfolio.vercel.app)
+* 🧠  I'm learning about PLC , Object Detection , 
+* 🔗 Portfolio: 
 ##
 ## 🛠️ Technical Skills
 
