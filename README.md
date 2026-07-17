@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 ### 🚀 Projects
 
-- [Weather Classification Web App](https://weather-classify-yolov8-webapp.onrender.com/) — YOLOv8 · Flask · Python · weather-classification
+- [Weather Classification Web App](https://weather-classify-yolov8-webapp.onrender.com/) — YOLOv8 · Flask · Python · weather-classification (Suspended)
 
 ---
 
