@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 ### 🚀 Projects
 
+* **[YOLO Parking Slot Detector](https://github.com/taesaksit/car-parking-slot-detection)** — Real-time parking slot occupancy detection using YOLO OBB, OpenCV, and CVAT.
 * **[ResNet18 CIFAR-10 PyTorch](https://github.com/taesaksit/resnet18-cifar10-pytorch)** — Custom model ResNet18 architectures on CIFAR-10 dataset reach 96.22%
 * **[Leaf Disease Classification via WOA](https://github.com/taesaksit/whale-optimization-algorithm)** — University project on leaf image classification using Whale Optimization Algorithm.
 * **[Heart Disease Prediction via GA](https://github.com/taesaksit/genetic-algorithm)** — Heart disease classification using Genetic Algorithm.
