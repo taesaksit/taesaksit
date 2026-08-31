@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * **[ResNet18 CIFAR-10 PyTorch](https://github.com/taesaksit/resnet18-cifar10-pytorch)** — Custom model ResNet18 architectures on CIFAR-10 dataset reach 96.22%
 * **[Leaf Disease Classification via WOA](https://github.com/taesaksit/whale-optimization-algorithm)** — University project on leaf image classification using Whale Optimization Algorithm.
 * **[Heart Disease Prediction via GA](https://github.com/taesaksit/genetic-algorithm)** — Heart disease classification using Genetic Algorithm.
-* **[Weather Classification Web App](https://weather-classify-yolov8-webapp.onrender.com/)** — YOLOv8 and Flask web app for weather classification *(Suspended)*.
+* **[Weather Classification Web App](https://github.com/taesaksit/weather-classify-yolov8-webapp/tree/main/)** — YOLOv8 and Flask web app for weather classification *(Suspended)*.
 ---
 
 ### 🛠️ Languages and Tools
